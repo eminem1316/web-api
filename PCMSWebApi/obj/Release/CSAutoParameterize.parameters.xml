@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PCMS_DbConnection-Web.config Connection String" description="PCMS_DbConnection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:diligent-corp.database.windows.net,1433;Initial Catalog=PCMS_Database;Persist Security Info=False;User ID=Johnson;Password=Diligent12!;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=False;Connection Timeout=90;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\User_Vinod\\Diligent\ Corp\\Azure\\PCMSWebApi\\PCMSWebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PCMS_DbConnection']/@connectionString" />
+  </parameter>
+</parameters>

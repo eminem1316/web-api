@@ -1,0 +1,14 @@
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\PCMSWebApi.dll.config
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\PCMSWebApi.dll
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\PCMSWebApi.pdb
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\Newtonsoft.Json.dll
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\System.Net.Http.Formatting.dll
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\System.Web.Http.dll
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\System.Web.Http.WebHost.dll
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\Newtonsoft.Json.xml
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\System.Net.Http.Formatting.xml
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\System.Web.Http.xml
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\bin\System.Web.Http.WebHost.xml
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\obj\Release\PCMSWebApi.dll
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\obj\Release\PCMSWebApi.pdb
+C:\User_Vinod\Diligent Corp\Azure\PCMSWebApi\PCMSWebApi\obj\Release\PCMSWebApi.csprojResolveAssemblyReference.cache
